@@ -1,1 +1,0 @@
-shammay.js
